@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --heading-06: Poppins;
+  --heading-02: Merienda;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --heading-06-size: 20px;
+  --bt-01-size: 22px;
+  --heading-05-size: 24px;
+  --special-text-01-size: 40px;
+  --sp-03-size: 18px;
+  --heading-04-size: 30px;
+  --heading-02-size: 50px;
+  --heading-01-size: 65px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gainsboro: #dedede;
+  --primary-c: #396c03;
+  --paragraph: #676767;
+  --paragraph1: #525252;
+  --color-darkorange: #ff8b00;
+  --color-black: #000;
+  --color-gray-100: rgba(0, 0, 0, 0.3);
+  --balck-basic: #3f3f3f;
+  --disable: #c7c7c7;
+  --color-olivedrab: #6b9142;
+
+  /* Gaps */
+  --gap-mini: 15px;
+
+  /* Paddings */
+  --padding-mini: 15px;
+  --padding-41xl: 60px;
+  --padding-31xl: 50px;
+
+  /* border radiuses */
+  --br-205xl-4: 224.4px;
+  --br-3xs: 10px;
+  --br-mini: 15px;
+}
